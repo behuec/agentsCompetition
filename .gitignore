@@ -1,0 +1,5 @@
+./adx-server/logs/
+./adx-server/infodb/
+./adx-server/*.slg
+./adx-agents/logs/*
+./classpath
