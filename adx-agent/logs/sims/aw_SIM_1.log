@@ -1,9 +1,0 @@
-24/10 11:10:41 SEVERE agentware.ServerConnection|(1) could not read
-java.io.EOFException
-	at java.io.DataInputStream.readInt(DataInputStream.java:392)
-	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:221)
-	at java.lang.Thread.run(Thread.java:745)
-24/10 11:10:41 SEVERE agentware.SimClient|************************************************************
-24/10 11:10:41 SEVERE agentware.SimClient|* Connection Lost
-24/10 11:10:41 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
-24/10 11:10:41 SEVERE agentware.SimClient|************************************************************
